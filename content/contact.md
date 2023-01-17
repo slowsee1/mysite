@@ -5,8 +5,8 @@ title: "Contact"
 <br>
 
 #### E-mail
-    shihai@zhangshihai.cn
-    2065484499@qq.com
+* shihai@zhangshihai.cn
+* 2065484499@qq.com
 #### SNS
-    Instagram: zhangshihai2
-    Weibo: uu窗花uu
+* Instagram: [zhangshihai2](https://www.instagram.com/zhangshihai2/)
+* Weibo: [uu窗花uu](https://weibo.com/u/7811476668)
