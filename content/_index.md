@@ -7,4 +7,5 @@ draft: false
 * [江安（Jiang'an, on-going）](/jiang-an/)
 * [涣散（Huansan, 2023）](/huansan/)
 * [你走以后的光（The Light After You Are Gone, 2022）](/the-light-after-you-are-gone/)
+* [江安日记（Jiang'an Diary, 2021）](/jiang-an-diary/)
 * [骆驼（Luotuo, 2020）](/luotuo/)
