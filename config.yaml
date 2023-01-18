@@ -28,7 +28,7 @@ menu:
     weight: 3
   - name: Contact
     pre: mail
-    url: /contact/
+    url: mailto:shihai@zhangshihai.cn
     weight: 4
   - name: RSS
     pre: rss

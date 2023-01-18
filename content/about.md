@@ -9,3 +9,8 @@ title: "About"
 我叫诗海^ ^ nice to meet you!
 
 我是一个摄影师，我拍照片，然后展示它们。
+<br><br>
+
+###### 在社交网站找到我：
+* Instagram: [zhangshihai2](https://www.instagram.com/zhangshihai2/)
+* Weibo: [uu窗花uu](https://weibo.com/u/7811476668)
