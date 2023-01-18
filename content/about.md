@@ -6,4 +6,6 @@ title: "About"
 
 <img src="/img/about/about.JPG" width="30%" height="30%">
 <br><br>
-My name is Zhang Shihai. I am a photographer living and working in China.
+我叫诗海^ ^ nice to meet you!
+
+我是一个摄影师，我拍照片，然后展示它们。
