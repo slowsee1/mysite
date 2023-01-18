@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
-<p><a href="/tags/">Veiw all tags</a></p>
+<p><a href="/tags/">View all tags</a></p>
 {{ range .Pages.ByPublishDate.Reverse }}
 <p>
   <a class="font-125" href="{{ .Permalink }}">{{ .Title }}</a>
