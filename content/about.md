@@ -12,5 +12,5 @@ title: "About"
 <br><br>
 
 ##### SNS
-* Instagram: [zhangshihai2](https://www.instagram.com/zhangshihai2/)
 * Weibo: [uu窗花uu](https://weibo.com/u/7811476668)
+* Instagram: [zhangshihai2](https://www.instagram.com/zhangshihai2/)
