@@ -8,3 +8,5 @@ draft: false
 * [你走了以后的光（The Light After You Are Gone, 2022）](/the-light-after-you-are-gone/)
 * [江安日记（Jiang'an Diary, 2021）](/jiang-an-diary/)
 * [骆驼（Luotuo, 2020）](/luotuo/)
+<br><br>
+* [Blogs tagged as "照片"](/tags/照片/)
