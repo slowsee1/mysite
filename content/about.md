@@ -6,10 +6,9 @@ title: "About"
 
 <img src="/img/about/about.JPG" width="30%" height="30%">
 <br><br>
+我叫诗海
 
->我叫诗海
-
->我是一个摄影师，我拍照片，然后展示它们。
+我是一个摄影师，我拍照片，然后展示它们。
 <br><br>
 
 ##### SNS

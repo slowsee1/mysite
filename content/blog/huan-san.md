@@ -11,4 +11,4 @@ title: "涣散"
 
 >我想，休息的时候，如果状态不怎么高，就不拍照了，出门的话，就找个地方呆着就好……也想试试看别的事，比如画画，比如像这样子写下来……
 
-![huansan0001](/img/blog/huansan/huansan0001.jpg)
+![huan-san](/img/blog/huan-san/huan-san.jpg)
