@@ -74,14 +74,6 @@ title: "你走了以后的光（The Light After You Are Gone, 2022）"
 
 ![the-light-after-you-are-gone-35](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-35.jpg)<br><br><br><br>
 
-![the-light-after-you-are-gone-36](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-36.jpg)<br><br><br><br>
+![the-light-after-you-are-gone-36](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-36.jpg)<br><br>
 
-![the-light-after-you-are-gone-37](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-37.jpg)<br><br><br><br>
-
-![the-light-after-you-are-gone-38](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-38.jpg)<br><br><br><br>
-
-![the-light-after-you-are-gone-39](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-39.jpg)<br><br><br><br>
-
-![the-light-after-you-are-gone-40](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-40.jpg)<br><br><br><br>
-
-![the-light-after-you-are-gone-41](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-41.jpg)<br><br><br><br>
+编辑日期：2023年1月24日
