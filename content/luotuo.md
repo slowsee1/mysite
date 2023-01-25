@@ -84,8 +84,9 @@ title: "骆驼（Luotuo, 2020）"
 
 ![luotuo40](/img/portfolio/luotuo/luotuo40.jpg)<br><br><br>
 
-<img src="/img/portfolio/luotuo/luotuo41.jpg" width="50%" height="50%"><br><br><br>
+<img src="/img/portfolio/luotuo/luotuo41.jpg" width="50%" height="50%"><br>
 
-照片：张诗海<br>
-封面：陈卓<br><br>
-编辑日期：2023年1月25日<br><br>
+封面：陈卓<br><br><br>
+编辑日期：
+* 2022年9月12日
+* 2023年1月25日<br><br><br>
