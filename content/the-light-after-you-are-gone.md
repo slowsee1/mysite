@@ -68,7 +68,5 @@ title: "你走了以后的光（The Light After You Are Gone, 2022）"
 
 ![the-light-after-you-are-gone-32](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-32.jpg)<br><br><br><br>
 
-![the-light-after-you-are-gone-33](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-33.jpg)<br><br><br><br>
-
 编辑日期：
 * 2023年1月24日<br><br><br>
