@@ -2,7 +2,7 @@
 title: Portfolio
 draft: false
 ---
-![homepage_img](/img/portfolio/homepage/homepage_img.jpg)
+![homepage_img](/img/portfolio/the-light-after-you-are-gone/the-light-after-you-are-gone-23.jpg)<br><br>
 
 * [江安（Jiang'an, on-going）](/jiang-an/)
 * [你走了以后的光（The Light After You Are Gone, 2022）](/the-light-after-you-are-gone/)
