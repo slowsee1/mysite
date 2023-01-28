@@ -39,5 +39,3 @@ title: "今天"
 ![jin-tian-17](/img/blog/jin-tian/jin-tian-17.jpg)
 
 ![jin-tian-18](/img/blog/jin-tian/jin-tian-18.jpg)
-
-看用来发呆的书，有很多话跟你说。
