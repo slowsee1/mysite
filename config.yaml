@@ -32,7 +32,7 @@ menu:
     weight: 4
   - name: RSS
     pre: rss
-    url: /index.xml
+    url: /blog/index.xml
     weight: 5
 
 params:
