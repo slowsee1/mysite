@@ -11,6 +11,5 @@ title: "About"
 我是一个摄影师，我拍照片，然后展示它们。
 <br><br>
 
-##### SNS
-* Weibo: [uu窗花uu](https://weibo.com/u/7811476668)
-* Instagram: [zhangshihai2](https://www.instagram.com/zhangshihai2/)
+[微博](https://weibo.com/u/7811476668)<br>
+[Instagram](https://www.instagram.com/shihai8069/)
