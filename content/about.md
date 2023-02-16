@@ -4,7 +4,7 @@ title: "About"
 ---
 <br>
 
-<img src="/img/about/about.jpg" width="17%" height="17%">
+<img src="/img/about/about.jpg" width="20%" height="20%">
 <br><br>
 我叫诗海
 
