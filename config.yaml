@@ -1,6 +1,6 @@
 baseURL: https://zhangshihai.cn
 languageCode: en-us
-title: Zhang Shihai
+title: zhang shihai
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -14,25 +14,20 @@ permalinks:
 # The value of pre is the icon name
 menu:
   nav:
-  - name: Portfolio
-    pre: camera
+  - name: Home
     url: /
     weight: 1
   - name: Posts
-    pre: edit
     url: /posts/
     weight: 2
   - name: About
-    pre: smile
     url: /about/
     weight: 3
   - name: Contact
-    pre: mail
     url: mailto:2065484499@qq.com
     weight: 4
   - name: RSS
-    pre: rss
-    url: /post/index.xml
+    url: /posts/index.xml
     weight: 5
 
 params:
