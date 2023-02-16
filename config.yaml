@@ -18,9 +18,9 @@ menu:
     pre: camera
     url: /
     weight: 1
-  - name: Blog
+  - name: Posts
     pre: edit
-    url: /blog/
+    url: /posts/
     weight: 2
   - name: About
     pre: smile
@@ -32,7 +32,7 @@ menu:
     weight: 4
   - name: RSS
     pre: rss
-    url: /blog/index.xml
+    url: /post/index.xml
     weight: 5
 
 params:
