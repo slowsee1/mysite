@@ -2,4 +2,4 @@
 title: Home
 draft: false
 ---
-<br>
+![homeimg](/img/home/homeimg.jpg)
