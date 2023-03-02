@@ -17,8 +17,8 @@ menu:
   - name: Home
     url: /
     weight: 1
-  - name: Posts
-    url: /posts/
+  - name: Blog
+    url: /post/
     weight: 2
   - name: About
     url: /about/
@@ -27,7 +27,7 @@ menu:
     url: mailto:2065484499@qq.com
     weight: 4
   - name: RSS
-    url: /posts/index.xml
+    url: /post/index.xml
     weight: 5
 
 params:
