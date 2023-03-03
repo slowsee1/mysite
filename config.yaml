@@ -24,7 +24,7 @@ menu:
     url: /about/
     weight: 3
   - name: Contact
-    url: mailto:2065484499@qq.com
+    url: mailto:shihai2@qq.com
     weight: 4
   - name: RSS
     url: /post/index.xml
